@@ -126,8 +126,5 @@ Endpoints:
 Additional-Control-Actions:
     - threaddump
 Install-Build-Required: false
-#Source-Url: https://github.com/zhangjing1/jbsv2test.git
-#Source-Url: git@github.com:zhangjing1/jbsv2test.git
-#Source-Url: http://github.com/zhangjing1/jbsv2test.git
-Source-URL: git://github.com/zhangjing1/jbsv2test.git
+Source-URL:http://github.com/zhangjing1/jbsv2test.git 
 
