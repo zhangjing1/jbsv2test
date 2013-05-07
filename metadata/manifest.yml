@@ -1,4 +1,4 @@
-Name: jbossas
+Name:vendor1 
 Cartridge-Short-Name: JBOSSAS
 Display-Name: JBoss Application Server 7
 Description: "The leading open source Java EE6 application server for enterprise Java applications. Popular development frameworks include Seam, CDI, Weld, and Spring."
@@ -7,7 +7,7 @@ License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
 Vendor: Red Hat
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: redhat
+Cartridge-Vendor: jinzhang
 Categories:
   - service
   - web_framework
